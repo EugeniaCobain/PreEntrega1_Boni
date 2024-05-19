@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #455c50;
+    color: #baa480;
+}
+
+header{
+    width: 100%;
+    padding: 50px 30px;
+    font-size: 3rem;
+}
+
+h2{
+    padding: 30px;
+    font-size: 2.5rem;
+}
+
+h3{
+    padding: 30px;
+    font-size: 2rem;
+}
+
+p{
+    padding: 30px;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
